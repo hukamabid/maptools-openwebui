@@ -88,40 +88,6 @@ The implementation utilizes a class-based structure that Open WebUI interprets a
     
       - > A deep link to the full Google Maps site for navigation.
 
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
 ## 💡 Usage Examples
 
 ### Single Location Search
@@ -131,22 +97,6 @@ The implementation utilizes a class-based structure that Open WebUI interprets a
 **LLM Output:**
 
 > ![](images/media/image4.png)
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
 
 ### Route & Directions
 
@@ -163,14 +113,6 @@ The implementation utilizes a class-based structure that Open WebUI interprets a
   - > **Usage Limits:** The Static Maps API is cost-effective; however, it is recommended to set billing alerts in the Google Cloud Console to monitor the free credit usage.
 
   - > **Assumptions:** It is assumed the user has an active internet connection to fetch the map images, even if the LLM is running locally.
-
-## 
-
-## 
-
-## 
-
-## 
 
 ## 🛠️ Code Maintenance & Best Practices
 
